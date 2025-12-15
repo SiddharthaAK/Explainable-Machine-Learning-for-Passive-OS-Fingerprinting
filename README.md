@@ -35,22 +35,19 @@ streamlit run app.py
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
 ├── .gitignore            # Git ignore rules
+├── Cleaning&EDA.ipynb
+├── BaseModelsWithExplainability.ipynb
+├── AdvancedModelsWithExplainability.ipynb
+├── SEE_OSFingerprinting.ipynb
 ├── data/                 # Dataset files (CSV, ZIP)
 │   ├── flows_ml_ready.csv
 │   └── ...
-├── notebooks/            # Jupyter notebooks
-│   ├── Cleaning&EDA.ipynb
-│   ├── BaseModelsWithExplainability.ipynb
-│   ├── AdvancedModelsWithExplainability.ipynb
-│   └── SEE_OSFingerprinting.ipynb
 ├── images/               # Visualization images
 │   ├── permutation_importance_all_models.png
 │   ├── shap_*.png
 │   ├── lime_*.png
 │   └── ...
-└── docs/                 # Documentation files
-    ├── git_push_commands.md
-    └── ...
+
 ```
 
 ## Dashboard Pages
