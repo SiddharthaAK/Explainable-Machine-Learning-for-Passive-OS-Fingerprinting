@@ -40,7 +40,7 @@ streamlit run app.py
 ├── BaseModelsWithExplainability.ipynb
 ├── AdvancedModelsWithExplainability.ipynb
 ├── SEE_OSFingerprinting.ipynb
-├── data/                 # Dataset files (CSV, ZIP)
+├── data/                 # Dataset files(Must be created)
 │   ├── flows_ml_ready.csv
 │   └── ...
 ├── images/               # Visualization images
