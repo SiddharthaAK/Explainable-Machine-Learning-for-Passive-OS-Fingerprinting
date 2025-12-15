@@ -19,7 +19,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
+1. Download Data from https://zenodo.org/records/7635138
+2. Modify 'Cleaning&EDA.ipynb' accordingly to generate 'flows_ml_ready.csv'
 1. Make sure you have the `data/flows_ml_ready.csv` file in the `data/` directory
 2. Run the Streamlit app:
 ```bash
