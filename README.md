@@ -43,10 +43,10 @@ streamlit run app.py
 │   ├── flows_ml_ready.csv
 │   └── ...
 ├── images/               # Visualization images
-│   ├── permutation_importance_all_models.png
-│   ├── shap_*.png
-│   ├── lime_*.png
-│   └── ...
+    ├── permutation_importance_all_models.png
+    ├── shap_*.png
+    ├── lime_*.png
+    └── ...
 
 ```
 
